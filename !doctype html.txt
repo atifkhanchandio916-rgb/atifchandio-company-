@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="ur" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Atif Chandio – Fiverr Freelancer</title>
+  <meta name="description" content="I am Atif Chandio, a professional Fiverr freelancer specializing in YouTube Thumbnails, Logo Design, and Social Media Graphics. I deliver creative, high-quality, and attention-grabbing designs.">
+  <meta name="keywords" content="Atif Chandio, Fiverr Freelancer, YouTube Thumbnails, Logo Design, Social Media Graphics">
+</head>
+<body style="font-family:sans-serif; background:#f8f9fb; text-align:center; padding:50px;">
+  <h1>Atif Chandio</h1>
+  <p>Professional Fiverr Freelancer – YouTube Thumbnails, Logo Design & Social Media Graphics</p>
+  <p>I deliver creative, high-quality, and attention-grabbing designs with fast delivery and client satisfaction.</p>
+  <a href="https://www.fiverr.com/yourprofile" target="_blank" style="display:inline-block; padding:10px 20px; background:#0b5; color:white; border-radius:5px; text-decoration:none;">میرا Fiverr </a>https://www.fiverr.com/s/38ja7eB
+</body>
+</html>
